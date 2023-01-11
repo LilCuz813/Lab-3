@@ -1,0 +1,15 @@
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.csproj.AssemblyReference.cache
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.AssemblyInfoInputs.cache
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.AssemblyInfo.cs
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.csproj.CoreCompileInputs.cache
+/Users/CTown813/Projects/Lab 3/bin/Debug/net6.0/Lab 3
+/Users/CTown813/Projects/Lab 3/bin/Debug/net6.0/Lab 3.deps.json
+/Users/CTown813/Projects/Lab 3/bin/Debug/net6.0/Lab 3.runtimeconfig.json
+/Users/CTown813/Projects/Lab 3/bin/Debug/net6.0/Lab 3.dll
+/Users/CTown813/Projects/Lab 3/bin/Debug/net6.0/Lab 3.pdb
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.dll
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/refint/Lab 3.dll
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.pdb
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/Lab 3.genruntimeconfig.cache
+/Users/CTown813/Projects/Lab 3/obj/Debug/net6.0/ref/Lab 3.dll
